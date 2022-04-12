@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+What are you interested in learning? Ans: CS
+What are you working on? Ans: Student
+What's your favorite hobby? Ans: Basketball
